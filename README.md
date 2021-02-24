@@ -2,6 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java         4 hrs 36 mins   ████████████████████████▒   97.68 % 
+Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
