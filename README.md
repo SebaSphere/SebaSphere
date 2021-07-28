@@ -2,10 +2,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java     5 hrs 28 mins   █████████████████████░░░░   84.58 % 
-JSON     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Groovy   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Other    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-HTML     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
