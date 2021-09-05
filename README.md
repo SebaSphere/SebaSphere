@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java     2 hrs 16 mins   ████████████████▒░░░░░░░░   65.73 % 
+Java     2 hrs 16 mins   ████████████████▒░░░░░░░░   65.72 % 
 Docker   1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.91 % 
 ```
 <!--END_SECTION:waka-->
