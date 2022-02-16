@@ -2,10 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 7 hrs 31 mins
+Total: 3 hrs 37 mins
 
-Java   5 hrs 27 mins   ██████████████████░░░░░░░   72.55 % 
-HTML   2 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.63 % 
-JSON   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+HTML   2 hrs 20 mins   ████████████████░░░░░░░░░   64.49 % 
+Java   1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   35.47 % 
 ```
 <!--END_SECTION:waka-->
