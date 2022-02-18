@@ -2,10 +2,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 22 mins
+Total: 1 hr 18 mins
 
-HTML         2 hrs 7 mins    ██████████████████████▒░░   89.64 % 
-Groovy       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Java         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+HTML         1 hr 3 mins     ████████████████████▒░░░░   81.19 % 
+Groovy       11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Java         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
