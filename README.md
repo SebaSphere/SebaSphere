@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java         10 mins         ████████████████████████▓   99.02 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
