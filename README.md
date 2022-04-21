@@ -3,7 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         4 hrs 28 mins   ████████████████████████▓   98.54 %
+Groovy       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
