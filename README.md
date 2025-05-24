@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebasphere&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=sebasphere&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-i8eligf0q-sebastians-projects-bbaf92a0.vercel.app/api?username=sebasphere&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats))
